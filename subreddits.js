@@ -26,5 +26,6 @@ module.exports = [
 	'historyporn',
 	'meow_irl',
 	'woof_irl',
-	'AnimalsBeingJerks'
+	'AnimalsBeingJerks',
+	'starterpacks'
 ];
